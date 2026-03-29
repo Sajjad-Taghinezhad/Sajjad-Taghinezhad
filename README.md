@@ -1,6 +1,6 @@
 # Sajjad Taghinezhad
 
-**Senior Security Engineer** · FUM CERT Lab · Ferdowsi University of Mashhad
+**Senior Security Researcher/Engineer** · FUM CERT Lab · Ferdowsi University of Mashhad
 
 I'm a security researcher and engineer based in Iran with roughly eight years of hands-on experience across offensive and defensive security. My day-to-day spans SOC architecture, penetration testing, threat intelligence, DevSecOps, and malware analysis at the CERT Laboratory of Ferdowsi University of Mashhad. I also mentor cybersecurity interns and design training programs for the next generation of analysts.
 
