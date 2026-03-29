@@ -10,7 +10,7 @@ My research focuses on cybersecurity in systems, software, and IoT. I'm especial
 
 ### Achievements
 
-🥇 1st Place — IranCTF(National Elite) · 🥉 3rd Place — National Elite CTF *(IrRaptors)*
+🥇 1st Place — IranCTF(National Elite CTF)(Team Leader) · 🥉 3rd Place — QueraCTF(National Elite)
 📝 IEEE ICCKE 2025 Peer Reviewer
 
 
